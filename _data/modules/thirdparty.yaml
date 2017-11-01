@@ -549,6 +549,13 @@
   license: Apache 2.0
   maven:
     url: https://bintray.com/yunspace/dropwizard/dropwizard-xml/view
+- name: dropwizard-mybatis
+  url: https://github.com/cvent/dropwizard-mybatis
+  description: Dropwizard bundle to use mybatis with dropwizard and other useful utility methods.
+  dropwizard: 0.7
+  license: Apache 2.0
+  maven:
+    url: https://mvnrepository.com/artifact/com.cvent/dropwizard-mybatis
 
 ## Bundles that have been tested on Dropwizard 0.6
 - name: dropwizard-extra-core
